@@ -1,0 +1,40 @@
+c:\users\student\documents\visual studio 2010\Projects\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.Form1.resources
+c:\users\student\documents\visual studio 2010\Projects\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.Properties.Resources.resources
+c:\users\student\documents\visual studio 2010\Projects\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2010\Projects\EmployeeMan\EmployeeMan\bin\Debug\EmployeeMan.exe
+c:\users\student\documents\visual studio 2010\Projects\EmployeeMan\EmployeeMan\bin\Debug\EmployeeMan.pdb
+c:\users\student\documents\visual studio 2010\Projects\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.exe
+c:\users\student\documents\visual studio 2010\Projects\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.pdb
+C:\Users\Nafis\Documents\Visual Studio 2017\Projects\EmployeeMan\EmployeeMan\bin\Debug\EmployeeMan.exe
+C:\Users\Nafis\Documents\Visual Studio 2017\Projects\EmployeeMan\EmployeeMan\bin\Debug\EmployeeMan.pdb
+C:\Users\Nafis\Documents\Visual Studio 2017\Projects\EmployeeMan\EmployeeMan\bin\Debug\MySql.Data.DLL
+C:\Users\Nafis\Documents\Visual Studio 2017\Projects\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.csprojResolveAssemblyReference.cache
+C:\Users\Nafis\Documents\Visual Studio 2017\Projects\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.Form1.resources
+C:\Users\Nafis\Documents\Visual Studio 2017\Projects\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.Properties.Resources.resources
+C:\Users\Nafis\Documents\Visual Studio 2017\Projects\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.csproj.GenerateResource.Cache
+C:\Users\Nafis\Documents\Visual Studio 2017\Projects\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.exe
+C:\Users\Nafis\Documents\Visual Studio 2017\Projects\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.pdb
+E:\EmployeeMan\EmployeeMan\EmployeeMan\bin\Debug\EmployeeMan.exe
+E:\EmployeeMan\EmployeeMan\EmployeeMan\bin\Debug\EmployeeMan.pdb
+E:\EmployeeMan\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.csprojResolveAssemblyReference.cache
+E:\EmployeeMan\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.Form1.resources
+E:\EmployeeMan\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.Properties.Resources.resources
+E:\EmployeeMan\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.csproj.GenerateResource.Cache
+E:\EmployeeMan\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.exe
+E:\EmployeeMan\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.pdb
+H:\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.exe
+H:\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.pdb
+H:\EmployeeMan\EmployeeMan\bin\Debug\EmployeeMan.exe
+H:\EmployeeMan\EmployeeMan\bin\Debug\EmployeeMan.pdb
+H:\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.csprojResolveAssemblyReference.cache
+H:\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.Form1.resources
+H:\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.Properties.Resources.resources
+H:\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.csproj.GenerateResource.Cache
+D:\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.exe
+D:\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.pdb
+D:\EmployeeMan\EmployeeMan\bin\Debug\EmployeeMan.exe
+D:\EmployeeMan\EmployeeMan\bin\Debug\EmployeeMan.pdb
+D:\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.csprojResolveAssemblyReference.cache
+D:\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.Form1.resources
+D:\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.Properties.Resources.resources
+D:\EmployeeMan\EmployeeMan\obj\x86\Debug\EmployeeMan.csproj.GenerateResource.Cache
